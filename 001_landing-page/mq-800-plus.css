@@ -1,0 +1,19 @@
+header{
+  height: 10vh;
+  display: flex;
+  flex-flow: row wrap;
+}
+ul {
+  display: flex;
+  flex-flow: row wrap;
+}
+#idx-atf{
+  height: 90vh;
+}
+h1{
+  font-size: 5rem;
+  font-weight: 900;
+}
+/* #handy-logo {
+  margin: 0 auto;
+} */

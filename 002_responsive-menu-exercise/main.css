@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  border: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+
+}
+ul {
+  display: flex;
+  flex-flow: column nowrap;
+
+}
+a{
+  display: block;
+}
+a:link {
+  color: royalblue;
+}
+a:visited {
+color: whitesmoke;
+}
+a:hover{
+  color: black;
+}
+a:active {
+  color:green;
+}
